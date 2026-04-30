@@ -14,7 +14,7 @@ Para alimentar este caderno, foram utilizadas as seguintes fontes abertas:
 
 ---
 
-## Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
+## Engenharia de Prompts e "Cicatrizes" 
 
 Nesta seção, registro o raciocínio aplicado para extrair o melhor da IA:
 
@@ -34,7 +34,7 @@ Nesta seção, registro o raciocínio aplicado para extrair o melhor da IA:
 
 ---
 
-##  Miniguia de Estudo (Entrega Final)
+##  Miniguia de Estudo 
 
 ###  Resumo: O Site como uma Lanchonete
 *   **HTML (Estrutura):** É a planta da lanchonete, paredes e balcão. Sem ele, não há lugar para o negócio existir.
